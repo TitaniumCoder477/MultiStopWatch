@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MultiStopWatch</string>
+    <string name="timeDefault">00:00:00</string>
+    <string name="hh_mm_ss">HH:MM:SS</string>
+    <string name="mm_ss_ms">MM:SS:MS</string>
+</resources>
